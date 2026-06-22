@@ -1,0 +1,7 @@
+Thumbs.db
+.DS_Store
+
+# Source material retained locally; publication-ready copies live in /assets.
+/*.pdf
+/*.png
+/Yao_CV_public.docx
